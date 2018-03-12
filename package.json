@@ -1,0 +1,24 @@
+{
+  "name": "blood_management_system",
+  "version": "1.0.0",
+  "description": "This is a web application of Blood Management system.",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabas610/BMS.git"
+  },
+  "author": "Praveen Bhaskar Reddi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabas610/BMS/issues"
+  },
+  "homepage": "https://github.com/prabas610/BMS#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
